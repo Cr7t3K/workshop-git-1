@@ -1,2 +1,4 @@
 # Atelier Git & GitHub
-Voici mon troisieme commentaire dans un fichier README
+Voici mon premier commentaire dans un fichier README
+Voici mon deuxieme commentaire dans un fichier README
+
